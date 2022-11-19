@@ -12,16 +12,16 @@
 
 ## 创建项目
 ### 1. 创建解决方案
-选择ASP.NET Core Web应用程序，创建解决方案与WebApi项目。
+选择ASP.NET Core Web应用程序，创建解决方案与WebApi项目。<br/>
 ![1.创建解决方案](../_media/webapi/1.创建解决方案.png)
 
 ### 2. 选择项目模板
 选择最新的LTS版本支持框架ASP.NET Core 3.1；<br/>
-由于本项目为纯后端项目，仅对web及移动端提供webapi接口，因此此处选择API模板，根据实际业务取消勾选“为HTTPS配置”。
+由于本项目为纯后端项目，仅对web及移动端提供webapi接口，因此此处选择API模板，根据实际业务取消勾选“为HTTPS配置”。<br/>
 ![2.选择项目模板](../_media/webapi/2.选择项目模板.png)
 
 ### 3. 完成解决方案创建
-创建后的FSCBase.WebApi项目目录结构如图所示：
+创建后的FSCBase.WebApi项目目录结构如图所示：<br/>
 ![3.完成解决方案创建](../_media/webapi/3.完成解决方案创建.png)
 
 ## 完善项目基础设施
@@ -90,7 +90,6 @@ app.UseEndpoints(endpoints =>
 ```
 
 ## 完成架构设计
-按照[架构简介](#架构简介)添加其他项目扩展框架
-
+按照[架构简介](#架构简介)添加其他项目扩展框架<br/>
 ![其他项目类型选择](../_media/webapi/其他项目类型选择.png)
 

@@ -12,6 +12,5 @@
 * MS SQL Server 2008r2 +
 * Node.js
 
-
-----------
-[@LakesideKnight](https://github.com/LakesideKnight)
+## 文档站点
+>[https://lakesideknight.github.io/fullstack-dotnetcore-vue](https://lakesideknight.github.io/fullstack-dotnetcore-vue)

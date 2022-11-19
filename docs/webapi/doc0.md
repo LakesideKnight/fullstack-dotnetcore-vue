@@ -11,7 +11,6 @@ VisualStudio 2019 + MS SQL Server 2008r2
 window server IIS7 + asp.net core3.1
 
 ### git地址
-[https://gitee.com/froggen007/fscbase-webapi](https://gitee.com/froggen007/fscbase-webapi)
+>[https://gitee.com/froggen007/fscbase-webapi](https://gitee.com/froggen007/fscbase-webapi)
 
-----------
-[@LakesideKnight](https://github.com/LakesideKnight)
+

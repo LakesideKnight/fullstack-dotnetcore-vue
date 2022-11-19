@@ -31,8 +31,8 @@ project
 
 ## 准备项目环境
 ### 1. 安装nodejs
-* 下载地址：
-[http://nodejs.cn/download/](http://nodejs.cn/download/)
+>下载地址：
+>[http://nodejs.cn/download/](http://nodejs.cn/download/)
 ### 2. 安装淘宝镜像
 打开cmd命令行，执行以下脚本：
 ```text

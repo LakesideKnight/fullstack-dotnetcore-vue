@@ -98,7 +98,7 @@ const ResourceDetail = () => import(/* webpackChunkName: "resourceDetail" */ "@/
 this.$router.push("/Resource/Detail/" + resource.resCode);
 ```
 * 最终实现效果参照：  
-[http://fscbaseweb.lakesideknight.com/Resource/Manage](http://fscbaseweb.lakesideknight.com/Resource/Manage)
+>[http://fscbaseweb.lakesideknight.com/Resource/Manage](http://fscbaseweb.lakesideknight.com/Resource/Manage)
   
 ![资源模块效果1](../_media/web/资源模块效果1.png)
 ![资源模块效果2](../_media/web/资源模块效果2.png)

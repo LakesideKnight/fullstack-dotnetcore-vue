@@ -116,9 +116,9 @@
             });
         }
 ```
-接口出错时，前端可以获取到出错标志及内容进行相应处理，如图：
-![日志提示1](../_media/webapi/日志提示1.png)
-接口出错时，后端日志记录位置及内容如图：
+接口出错时，前端可以获取到出错标志及内容进行相应处理，如图：<br/>
+![日志提示1](../_media/webapi/日志提示1.png)<br/>
+接口出错时，后端日志记录位置及内容如图：<br/>
 ![日志提示2](../_media/webapi/日志提示2.png)
 
 ### 3. 全局错误拦截及日志记录
@@ -128,7 +128,7 @@
 
 ## swagger配置
 ### 1. 引用swagger库
-在NuGet里面搜索Swashbuckle.AspNetCore包进行安装：
+在NuGet里面搜索Swashbuckle.AspNetCore包进行安装：<br/>
 ![引用swagger](../_media/webapi/引用swagger.png)
 ### 2. 引用查看Api注释的库
 在NuGet里面搜索Microsoft.Extensions.PlatformAbstractions包进行安装：
@@ -163,9 +163,9 @@
 运行程序，访问swagger地址：
 >http://localhost:5000/swagger/index.html <br/>
 
-访问swagger首页如下：
-![swagger页面1](../_media/webapi/swagger页面1.png)
-点击某个接口，在右上角点击"try in out"，可以方便地进行接口调试，如下：
+访问swagger首页如下：<br/>
+![swagger页面1](../_media/webapi/swagger页面1.png)<br/>
+点击某个接口，在右上角点击"try in out"，可以方便地进行接口调试，如下：<br/>
 ![swagger页面2](../_media/webapi/swagger页面2.png)
 
 ## 接口加密配置

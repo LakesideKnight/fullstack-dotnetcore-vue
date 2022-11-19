@@ -8,7 +8,7 @@ FSCBase.WebApi项目通过Nuget安装如下的包：
 * Microsoft.EntityFrameworkCore.Design
 
 > [!TIP]
->各包根据项目框架选择3.1版本，如下：
+>各包根据项目框架选择3.1版本，如下：<br/>
 >![安装EFCore](../_media/webapi/安装EFCore.png)
 
 ## EFCore的初步使用

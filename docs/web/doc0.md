@@ -12,7 +12,6 @@ VisualStudio 2019
 * 客户端：IE9或以上版本的IE内核浏览器，以及火狐和webkit内核的谷歌浏览器等
 
 ### git地址
-[https://gitee.com/froggen007/fscbase.-web](https://gitee.com/froggen007/fscbase.-web)
+>[https://gitee.com/froggen007/fscbase.-web](https://gitee.com/froggen007/fscbase.-web)
 
-----------
-[@LakesideKnight](https://github.com/LakesideKnight)
+
